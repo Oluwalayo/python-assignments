@@ -1,6 +1,6 @@
 """
 📝 List Operations Assignment
-Author: Your Name
+Author: Oluwalayomi Jesuloluwa
 
 This program demonstrates basic list operations in Python:
 1. Create an empty list.

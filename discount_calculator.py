@@ -1,6 +1,6 @@
 """
 📝 Discount Calculator Assignment
-Author: Your Name
+Author: Oluwalayomi Jesuloluwa
 
 This program defines a function `calculate_discount` that applies a discount
 to a given price if the discount percentage is 20% or higher. Otherwise,
