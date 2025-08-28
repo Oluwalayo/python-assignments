@@ -1,6 +1,6 @@
 """
 📝 File Handling & Error Handling Assignment
-Author: Your Name
+Author: Oluwalayomi Jesuloluwa
 
 This program demonstrates:
 1. Reading a file and writing a modified version to a new file.
